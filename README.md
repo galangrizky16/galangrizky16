@@ -41,15 +41,15 @@ I enjoy building modern web applications, automation tools, and digital services
 
 - GitHub: https://github.com/galangrizky16  
 - Instagram: https://instagram.com/kyydeveloper_id  
-- TikTok: https://tiktok.com/kyydeveloper_id  
+- TikTok: https://tiktok.com/@kyydeveloper_id  
 
 ---
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=galangrizky16&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=galangrizky16&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galangrizky16&layout=compact&theme=tokyonight&cache_seconds=1800" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=galangrizky16&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 ---
 
