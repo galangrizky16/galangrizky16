@@ -1,174 +1,221 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=KyDev&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Digital%20Innovator&descAlignY=60&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=Galang%20Rizky&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=20" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=500&height=80&lines=💻+Web+%26+Bot+Developer;🚀+Digital+Business+Enthusiast;⚡+Always+Learning+New+Tech" alt="Dynamic Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=45B7D1&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Space+%F0%9F%91%8B;Building+Amazing+Web+Experiences+%F0%9F%9A%80;Turning+Coffee+into+Code+%E2%98%95;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> **About Me**
-
 <div align="center">
-  <img width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Pronouns-He%2FHim-blue?style=for-the-badge&logo=pronouns&logoColor=white&labelColor=4A90E2" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Location-Indonesia%20🇮🇩-green?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=34A853" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <img src="https://img.shields.io/badge/Current%20Focus-Full--Stack%20Development-purple?style=for-the-badge&logo=code&logoColor=white&labelColor=8B5CF6" />
-      </td>
-    </tr>
-  </table>
-</div>
+<br/>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Languages-2%20Active-orange?style=for-the-badge&logo=codesandbox&logoColor=white&labelColor=F97316" />
-        <br/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Frameworks-4%20Mastered-red?style=for-the-badge&logo=framework&logoColor=white&labelColor=EF4444" />
-        <br/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Databases-2%20Types-cyan?style=for-the-badge&logo=database&logoColor=white&labelColor=06B6D4" />
-        <br/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **About Me**
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/Tools%20%26%20Workflow-4%20Daily-yellow?style=for-the-badge&logo=tools&logoColor=white&labelColor=F59E0B" />
-        <br/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+        <img src="https://github-readme-stats.vercel.app/api?username=galangrizky16&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=45B7D1&icon_color=FF6B6B&text_color=ffffff&ring_color=4ECDC4" width="100%" />
       </td>
       <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/Currently%20Learning-Next.js%2014-gradient?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000" />
-        <br/>
-        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=250&height=25&lines=TypeScript;Python;Advanced+Animation;Framer+Motion" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=galangrizky16&theme=radical&hide_border=true&background=0D1117&stroke=45B7D1&ring=FF6B6B&fire=4ECDC4&currStreakLabel=45B7D1" width="100%" />
       </td>
     </tr>
   </table>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Fun%20Fact-I%20debug%20with%20console.log()%20😄-pink?style=for-the-badge&logo=javascript&logoColor=white&labelColor=EC4899" />
+  
+```typescript
+const galang = {
+    pronouns: "He" | "Him",
+    location: "Indonesia 🇮🇩",
+    code: ["JavaScript", "TypeScript", "PHP", "Python"],
+    askMeAbout: ["web dev", "tech", "backend", "frontend"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js", "Vue"],
+            css: ["Tailwind", "Bootstrap", "Material-UI"]
+        },
+        backEnd: {
+            js: ["Node.js", "Express"],
+            php: ["Laravel"],
+            python: ["Django"]
+        },
+        databases: ["MongoDB", "MySQL", "PostgreSQL", "Supabase"],
+        devOps: ["Docker", "GitHub Actions", "Vercel", "Railway"],
+        tools: ["Git", "Postman", "Figma", "VS Code"]
+    },
+    currentFocus: "Building scalable full-stack applications",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> **Tech Arsenal**
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **Tech Stack**
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-        <br/>HTML5
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-        <br/>CSS3
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-        <br/>JavaScript
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-        <br/>TypeScript
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-        <br/>PHP
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-        <br/>React
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-        <br/>Next.js
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-        <br/>Laravel
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-        <br/>Tailwind
-      </td>
-      <td align="center" width="110">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-        <br/>Node.js
-      </td>
-    </tr>
-  </table>
+
+### 🎨 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### 🗄️ Database & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed83b5.png" width="30" /> **GitHub Analytics**
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **GitHub Stats**
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kydev-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kydev-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" />
+  <img src="https://github-profile-trophy.vercel.app/?username=galangrizky16&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=galangrizky16&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=45B7D1&icon_color=FF6B6B&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galangrizky16&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=45B7D1&text_color=ffffff"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=galangrizky16&bg_color=0D1117&color=45B7D1&line=FF6B6B&point=4ECDC4&area=true&hide_border=true" width="100%"/>
+</div>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **What I'm Currently Up To**
+
+<div align="center">
+
+```javascript
+while (alive) {
+    eat();
+    code();
+    sleep();
+    repeat();
+}
+
+// Current mission: Building the next big thing! 🚀
+```
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kydev-tech&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" />
+  <img src="https://img.shields.io/badge/💡_Learning-Next.js_14_+_Server_Actions-informational?style=for-the-badge&color=45B7D1" />
+  <img src="https://img.shields.io/badge/🎯_Focus-Full--Stack_Development-informational?style=for-the-badge&color=FF6B6B" />
+  <img src="https://img.shields.io/badge/📚_Reading-Clean_Code_Architecture-informational?style=for-the-badge&color=4ECDC4" />
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> **Connect With Me**
+<br/>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Connect With Me**
 
 <div align="center">
-  <a href="https://instagram.com/langnrxy">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
-  </a>
+  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/galangrizky16)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/galangrizky16)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/galangrizky16)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/galangrizky16)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galangrizky16@gmail.com)
+
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> **Let's Collaborate!**
+<br/>
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> **Support My Work**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&height=30&lines=⭐+Star+my+repositories+if+you+find+them+useful!;🚀+Open+to+new+opportunities+and+projects!" />
+  
+If you find my projects helpful or interesting, consider giving them a ⭐ star! It really motivates me to keep creating and sharing.
+
+[![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/galangrizky16)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/galangrizky16)
+
+</div>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> **Random Dev Quote**
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> **Visitor Count**
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/galangrizky16/count.svg" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github.com/galangrizky16/galangrizky16/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=Thanks+for+visiting+my+profile!+Have+a+great+day!+🚀;Let's+build+something+amazing+together!+💫;Open+to+collaboration+and+new+opportunities!+✨" />
-  
-  **🎯 Crafted with passion by [KyDev](https://github.com/kydev-tech) | © 2024**
+### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=45B7D1&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+Feel+free+to+explore+my+repos+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Let's+connect+and+build+something+awesome+together!+%F0%9F%9A%80;Always+open+to+new+opportunities+and+collaborations!+%E2%9C%A8;Happy+coding!+%F0%9F%92%BB%F0%9F%8E%89" alt="Closing Message" />
+
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kydev-tech&color=00D9FF&style=for-the-badge&label=Profile+Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=footer&animation=twinkling" />
+</div>
+
+<div align="center">
+  
+**Made with ❤️ by Galang Rizky**
+
+![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
+![Open Source Love](https://img.shields.io/badge/Open%20Source-💚-green?style=for-the-badge)
+
 </div>
