@@ -45,14 +45,6 @@ I enjoy building modern web applications, automation tools, and digital services
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=galangrizky16&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=galangrizky16&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
----
-
 ## ✨ Quote
 
 > "Keep building, keep learning, and never stop improving."
