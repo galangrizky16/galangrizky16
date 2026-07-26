@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Galang Rizky Arridho
+# 👋 Hi, I'm Edward
 
 💻 Software Developer from Indonesia  
 🚀 Passionate about Web Development, Automation, and Digital Products
